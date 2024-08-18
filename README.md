@@ -10,8 +10,8 @@ I'm a **Front-End Engineer** with a passion for crafting beautiful and functiona
 
 ### 🏅 My Badges
 <!--START_SECTION:badges-->
-[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/b0f56bcd-b953-453c-9c42-31dc0d87db62 "GitHub Foundations")
 [![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/d4546307-3270-4fff-83be-09ae8a9afdc7 "Associate Cloud Engineer Certification")
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/b0f56bcd-b953-453c-9c42-31dc0d87db62 "GitHub Foundations")
 <!--END_SECTION:badges-->
 
 ### 🌱 Currently Learning
