@@ -15,4 +15,5 @@ jobs:
         uses: pemtajo/badge-readme@8f043294cd2980135ba6efb91b2b8cd64e280924
         with:       
           CREDLY_USER: serhii-serdiuk-dev
+          CREDLY_SORT: POPULAR
           GH_TOKEN: ${{ secrets.UPDATE_BADGES_TOKEN }}
