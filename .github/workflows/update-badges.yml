@@ -16,4 +16,4 @@ jobs:
         with:       
           CREDLY_USER: serhii-serdiuk-dev
           CREDLY_SORT: POPULAR
-          GH_TOKEN: ${{ secrets.UPDATE_BADGES_TOKEN }}
+          GH_TOKEN: ${{ GITHUB_TOKEN }}
