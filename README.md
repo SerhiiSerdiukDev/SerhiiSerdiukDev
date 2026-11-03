@@ -10,9 +10,9 @@ I'm a **Front-End Engineer** with a passion for crafting beautiful and functiona
 
 ### 🏅 My Badges
 <!--START_SECTION:badges-->
-[![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/d4546307-3270-4fff-83be-09ae8a9afdc7 "Associate Cloud Engineer Certification")
-[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/b0f56bcd-b953-453c-9c42-31dc0d87db62 "GitHub Foundations")
-[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/29a77f7c-6780-489a-a4a0-92de29507d8b "GitHub Actions")
+<a href="https://www.credly.com/badges/29a77f7c-6780-489a-a4a0-92de29507d8b" title="GitHub Actions"><img src="https://images.credly.com/size/80x80/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/b0f56bcd-b953-453c-9c42-31dc0d87db62" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/d4546307-3270-4fff-83be-09ae8a9afdc7" title="Associate Cloud Engineer Certification"><img src="https://images.credly.com/size/80x80/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Associate Cloud Engineer Certification" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ### 🌱 Currently Learning
